@@ -1,5 +1,12 @@
-### Hey there!  
+# Hi, I'm Zackary 👋
 
-Im Luther (zackary), programmer in C, Python and JS,
+Developer based in **Mauritius!**, into low-level stuff and everything that runs behind the scenes.
 
-I develop or upgrade some projects I like.
+I develop in C, JS and Python, a bit of C++ and Lua too, when the project calls for it.
+
+### 🚀 Currently
+- 🖥️ **Server management** (Pterodactyl, Pelican)
+- 🤖 Some **Discord** bots
+
+### 🎧 Off the keyboard
+I listen to PLK everyday
