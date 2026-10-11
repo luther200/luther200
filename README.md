@@ -1,4 +1,5 @@
-## Hey, I'm Luther 👋
+## Hey, I'm Luther 👋 
+![visitors](https://komarev.com/ghpvc/?username=luther200&style=plastic&base=37&color=blue)
 
 Developer based in **Mauritius!**, into low-level stuff and everything that runs behind the scenes.
 
@@ -21,4 +22,3 @@ Developer based in **Mauritius!**, into low-level stuff and everything that runs
 ### 🎧 Off the keyboard
 I listen to PLK everyday.
 
-![visitors](https://komarev.com/ghpvc/?username=luther200&label=visitors&color=blueviolet&base=37)
