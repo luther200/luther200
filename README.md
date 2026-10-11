@@ -20,5 +20,4 @@ Developer based in **Mauritius**, into low-level stuff and everything that runs 
 ### 🎧 Off the keyboard
 I listen to PLK every day.
 
-![val](https://visitor-badge.laobi.icu/badge?page_id=luther200.luther200)
-<img src="https://visitor-badge.laobi.icu/badge?page_id=luther200.luther200" width="1" height="1" alt="">
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=luther200.luther200&left_text=visitors&right_color=%23a066c0&radius=4&height=20)<img src="https://visitor-badge.laobi.icu/badge?page_id=luther200.luther200" width="1" height="1" alt="">
