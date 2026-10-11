@@ -1,5 +1,5 @@
 ## Hey, I'm Luther 👋 
-![visitors](https://komarev.com/ghpvc/?username=luther200&style=plastic&base=37&color=blue)
+![visitors](https://komarev.com/ghpvc/?username=luther200&style=plastic&color=blue)
 
 Developer based in **Mauritius!**, into low-level stuff and everything that runs behind the scenes.
 
