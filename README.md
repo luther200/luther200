@@ -1,5 +1,8 @@
-<h1 align='center'>Hey, I'm Luther👋 <a href="#"><img src="https://visitor-badge.laobi.icu/badge?page_id=luther200.luther200&left_text=visitors&right_color=%23a066c0&radius=4&height=20"/></a>
+<h1 align='center'>  Hey, I'm Luther👋 <br>
+  <a href="https://codetime.dev"><img alt="CodeTime Badge" src="https://shields.jannchie.com/endpoint?style=flat&color=0284c7&url=https%3A%2F%2Fcodetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D37780"></a>  <a href="#"><img src="https://visitor-badge.laobi.icu/badge?page_id=luther200.luther200&left_text=visitors&right_color=%23a066c0&radius=4&height=20"/></a>
 </h1> 
+
+
 
 Developer based in **Mauritius**, into low-level stuff and everything that runs behind the scenes.
 
